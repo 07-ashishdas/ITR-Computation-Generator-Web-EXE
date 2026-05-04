@@ -19,7 +19,7 @@ Part of the **Finace India Compliance Stack** — a growing suite of public util
 
 ---
 
-# You Can Download [Download EXE]([https://github.com/your-repo/releases/download/v1.0.0/app.exe](https://github.com/07-ashishdas/ITR-Computation-Generator-Web-EXE/releases/download/v1.0.0/ITRGen.exe))
+# You Can Download [Download EXE](https://github.com/07-ashishdas/ITR-Computation-Generator-Web-EXE/releases/download/v1.0.0/ITRGen.exe)
 
 ## ✨ Key Features
 
