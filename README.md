@@ -19,6 +19,8 @@ Part of the **Finace India Compliance Stack** — a growing suite of public util
 
 ---
 
+# You Can Download ![Here EXE]([https://img.shields.io/badge/License-MIT-green](https://github.com/07-ashishdas/ITR-Computation-Generator-Web-EXE/releases/tag/v1.0.0))
+
 ## ✨ Key Features
 
 | Feature               | Description                                    |
